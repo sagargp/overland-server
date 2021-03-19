@@ -15,7 +15,7 @@ idna==2.0
 ino==0.3.6
 ipaddress==1.0.16
 itsdangerous==0.24
-Jinja2==2.7.2
+Jinja2==2.11.3
 keyring==7.3
 launchpadlib==1.10.3
 lazr.restfulclient==0.13.4
