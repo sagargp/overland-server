@@ -9,7 +9,7 @@ deluge==1.3.12
 enum34==1.1.2
 Flask==0.10.1
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.9.1
 idna==2.0
 ino==0.3.6
