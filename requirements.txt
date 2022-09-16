@@ -21,7 +21,7 @@ launchpadlib==1.10.3
 lazr.restfulclient==0.13.4
 lazr.uri==1.0.3
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==0.18
 mercurial==3.7.3
 ndg-httpsclient==0.4.0
